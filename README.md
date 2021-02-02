@@ -5,7 +5,7 @@ The Blood-oxygen module I used is MAX30101. It's a commercial blood-oxygen modul
 ## Content  
 ### 1.Design a program to analyse the data from MAX30101 in many ways.My interfarce and the usage of the program are below(It's made of Python and PyQt):   
 ![image](https://github.com/Ray0124/Blood_oxygen_module_anz/blob/main/Data_Load.PNG)  
-### 2.The Introduction of funtion:  
+### 2.The Introduction of functions:  
 #### (1).Intensity:    
 I collect the intensity variety of three kinds of light and different currents.The result is below:    
 ![image](https://github.com/Ray0124/Blood_oxygen_module_anz/blob/main/intensity.PNG)  
