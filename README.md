@@ -1,6 +1,6 @@
 # Blood_oxygen_-module_anz
 ## Abstract
-I want to find some ways to evaluate the Blood-oxygen module by the data the module collects and do some physiological information analysis.  
+It's a program written by python and PYQT to find some ways to evaluate the Blood-oxygen module by the data the module collects and do some physiological information analysis.  
 The Blood-oxygen module I used is MAX30101. It's a commercial blood-oxygen module,so the accurancy of the data is acceptable.This module can provide led control,current control,pulse control,and etc.You can see the outlines about it on Maxim's website.I use it to collect the PPG signals from my thumb in static.I use current control to collect the datas of 20mA and 40mA , and my sample rate is 100Hz.Each one has datas of IR(930nm) , red(655nm),and green(520nm).Figure out some ways to analyse the relatons between color light with different currents , and do some algorithms to show physiological information from the data of the MAX30101.  
 ## Content  
 ### 1.Design a program to analyse the data from MAX30101 in many ways.My interfarce and the usage of the program are below(It's made of Python and PyQt):   
