@@ -7,7 +7,8 @@ The Blood-oxygen module I used is MAX30101. It's a commercial blood-oxygen modul
 ![image](https://github.com/Ray0124/Blood_oxygen_module_anz/blob/main/Data_Load.PNG)  
 ### 2.The Introduction of functions:  
 #### (1).Intensity:    
-I collect the intensity variety of three kinds of light and different currents.The result is below:    
+I collect the intensity variety of three kinds of light and different currents(make sure your data without white cell because I didn't block for it).
+The result is below:    
 ![image](https://github.com/Ray0124/Blood_oxygen_module_anz/blob/main/intensity.PNG)  
 The PPG signal is apparent,but it's diffirent from each other.  
 #### (2).Fast Fourier Transform(FFT):  
